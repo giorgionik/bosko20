@@ -18,6 +18,7 @@ get_header();
 
 	
 <h2>Apartment </h2>
+<h2>Boskinac je kralj</h2>
 <p><?php the_field('title'); ?></p>
 <p>Share</p>
 <p>Check Availability</p>
